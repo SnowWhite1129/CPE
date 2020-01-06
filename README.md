@@ -1,8 +1,8 @@
 # CPE one star
 
 - All program can pass UVA online judge test
-	- Get AC
-- Description
+	
+
 ## 基礎題
 1.	Vito's family	(CPE10406, UVA10041)
 2.	Hashmat the brave warrior	(CPE10407, UVA10055)
