@@ -3,7 +3,7 @@
 - All program can pass UVA online judge test
 	- Get AC
 - Description
-題目	題號
+## 基礎題
 1.	Vito's family	(CPE10406, UVA10041)
 2.	Hashmat the brave warrior	(CPE10407, UVA10055)
 3.	Primary Arithmetic	(CPE10404, UVA10035)
